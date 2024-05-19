@@ -1,0 +1,7 @@
+C:\Users\melany Tellez\OneDrive\Escritorio\SistemaDeGestionTelefonos\bin\Debug\SistemaDeGestionTelefonos.exe.config
+C:\Users\melany Tellez\OneDrive\Escritorio\SistemaDeGestionTelefonos\bin\Debug\SistemaDeGestionTelefonos.exe
+C:\Users\melany Tellez\OneDrive\Escritorio\SistemaDeGestionTelefonos\bin\Debug\SistemaDeGestionTelefonos.pdb
+C:\Users\melany Tellez\OneDrive\Escritorio\SistemaDeGestionTelefonos\obj\Debug\SistemaDeGestionTelefonos.csproj.AssemblyReference.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\SistemaDeGestionTelefonos\obj\Debug\SistemaDeGestionTelefonos.csproj.CoreCompileInputs.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\SistemaDeGestionTelefonos\obj\Debug\SistemaDeGestionTelefonos.exe
+C:\Users\melany Tellez\OneDrive\Escritorio\SistemaDeGestionTelefonos\obj\Debug\SistemaDeGestionTelefonos.pdb
